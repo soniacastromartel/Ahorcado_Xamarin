@@ -86,6 +86,7 @@ namespace Ahorcado_Xamarin
                 if (palabraSecreta[i]==letraPulsada)
                 {
                     palabraAdivinar
+                        jaksldfjalksdj
 
                 }
 
